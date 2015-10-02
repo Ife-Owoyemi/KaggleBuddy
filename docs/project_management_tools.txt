@@ -1,0 +1,2 @@
+Model Schema: MySQLWorkbench -https://www.mysql.com/products/workbench/
+UML Diagram: ArgoUML - http://argouml.tigris.org/
